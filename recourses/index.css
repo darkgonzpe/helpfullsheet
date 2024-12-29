@@ -1,0 +1,57 @@
+
+* {
+    font-family: serif, "Arial";
+    background-color: rgb(255, 210, 222);
+}
+h1 {
+    color: hsl(195, 50%, 30%);
+    text-align: center;
+    font-weight: 900;
+}
+h2 {
+    text-align: center;
+}
+table {
+    height: 40%;
+    left: 10%;
+    margin: 20px auto;
+    position: static;
+    width: 70%;
+    border: 3px solid black;
+    text-align: center;
+}
+
+.encabezado {
+    background-color: hsl(165, 50%, 50%);
+
+    
+}
+.tags {
+    background-color: hsl(268, 50%, 50%);
+    font-weight: bold;
+}
+
+.attribute {
+    background-color: hsl(325, 50%, 50%);
+    font-weight: bold;
+}
+
+.is {
+    background-color: hsla(268, 50%, 50%, 0.8);
+    font-weight: bold;
+}
+
+.is2 {
+    background-color: hsla(325, 50%, 50%, 0.8);
+    font-weight: bold;
+}
+
+.meaning {
+    background-color: hsla(268, 50%, 50%, 0.7);
+    font-weight: bold;
+}
+
+.meaning2 {
+    background-color: hsla(325, 50%, 50%, 0.7);
+    font-weight: bold;
+}
